@@ -1,6 +1,7 @@
 This repository contains the rolled out markdown version of the transcribed, translated, and scanned files provided by penebui of Haruko Ichikawa's Part at the End. 
 
 __Scans:__ JEAN
+
 __Translations:__ penebui, angel, and art
 
 Nothing here belongs to me.
