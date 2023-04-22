@@ -1,3 +1,12 @@
+# Party at the END
+
+Originally by Haruko Ichikawa.
+
+__Scans:__ JEAN
+
+__Translations:__ penebui, angel, and art
+
+See README.md for links.
 
 <img src="./files/1 (Explanatory Notes).jpg" width="700"/>
 
