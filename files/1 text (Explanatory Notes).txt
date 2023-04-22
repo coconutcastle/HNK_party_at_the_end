@@ -1,0 +1,13 @@
+凡例
+一, 本書は、未知の領域から受け取った書籍データを解凍・翻訳 再現したものである。
+一, 言語は部分的に解読不能で、現時点での正確性を優先した翻訳である。
+一, 翻訳にあたっては多少文章としてぎこちない印象を与えても意味が違(たが)わぬよう加える部分は最小に留めた。
+一, 訳語は統一性よりも正確性を優先した。
+一, 画像記録は劣化のため色彩データがない、あるいは元々モノクロだった可能性がある。
+
+Explanatory Notes
+一, This book is a decompression, translation, and reproduction of book data received from an unknown source.
+一, The language is partially indecipherable, and the translation prioritizes accuracy at this time.
+一, In translating the text, the additions were kept to a minimum so that the meaning would not be lost even if the text appeared a little awkward.
+一, Accuracy was prioritized over uniformity in the translation.
+一, Image records may be missing color data due to deterioration or may have originally been black and white.

@@ -1,0 +1,34 @@
+ー　モルガ。クールな作業着が似合うね。どういった状況？
+追加都市の地盤生成するMAPのため。ほとんどはオートマティックでカバーでき
+るが、0.015％の塗り残しに赴く仕事、原因調査、システムの改善だ。散布のための作業
+服の特化も。
+
+ー　(Old) Morga. You look cool in your work clothes. What’s the situation? 
+For additional city ground generation MAPs. Most of the work can be covered by automatics. 
+Most of the work can be covered by automatics, but I'm going to work on the 0.015% that remains to be covered, 
+investigate the cause, and improve the system. Also specialized in work clothes for scattering. 
+
+ー　幻想的な風景だ。どうして教えてくれない？
+そう、注意だ、この地を這う（はう）基礎剤の霧をあんたは見つめるべきではない。睡眠中の精神
+に作用し、かつての都市の夢を見るらしい。底のない夢と聞く。古い都市記憶のない自分
+たちには作用しないため。
+
+ー　It’s a fantastic landscape. Mind telling me about it? 
+Yes, but be careful, you shouldn’t stare at the base fog crawling around here. It seems to act on the sleeping mind and causes dreams of cities that once were. Bottomless dreams, I hear. It does not work on those of us who have no memory of old cities.
+
+ー　それは恐ろしいことだ。ありがとう。弟との仕事はどう？
+同じ成分だったとは思えない、賢い。再生は、彼と会えて最も感謝している。
+
+ー　That’s terrifying. Thank you. How’s working with your brother? 
+I can’t believe we’re the same material, clever. I’m grateful to have met him through regeneration. 
+
+ー　この場所は都市光がなく、救剤の星が近づいて見える。美しく敬虔だ。
+ここでは常に思い出す。末っ子の顛末（てんまつ）は聞いた。合理性を伴い、彼の幼い頃から見ていた
+が, 彼の望みは万能で難しいと感じた。草臥れる（くたびれる）または他者不在以外の幸福方法。けれど, 
+俺はただ現実の快適を求めて俺自身を過ごすことを選ぶよ。星の眺めは冷たく懐かしい。
+
+This place has no city lights, and the Star of Salvation looks closer. Beautiful and pois. 
+This place always reminds me of him. I heard about his youngest son. 
+With all rationality, I had seen it since his childhood, I felt that his wishes were versatile and difficult. 
+A way to happiness other than lying in the grass or the absence of others. 
+But, I choose to spend my life just looking for real comfort. The view of the stars is cold and nostalgic.
