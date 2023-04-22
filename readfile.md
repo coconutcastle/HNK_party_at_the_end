@@ -2255,7 +2255,7 @@ I’m on it.
 
 <img src="./files/103 (Amethyst 84).jpeg" width="700"/>
 
-# yst 84
+# Amethyst 84
 
 ー　研究区域への立ち入りは初めてだ。 許可をありがとう。
 
